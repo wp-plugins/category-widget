@@ -27,7 +27,8 @@ Through this plugin user can,
 
 For more information : http://buffercode.com/plugin-display-post-titles-category-selection/
 
-v 1.6.1
+v 1.6.1 [31/03/2015]
+
 * Bug fixes
 * Supports 4.1.1
 
