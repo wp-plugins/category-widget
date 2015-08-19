@@ -3,8 +3,8 @@ Contributors: vinoth06, buffercode
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7DHAEMST475BY
 Tags: widget, category widget, post category, category based post, post title
 Requires at least: 3.0.1
-Tested up to: 4.1.1
-Stable tag: 1.6.1 
+Tested up to: 4.3
+Stable tag: 1.7 
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -26,6 +26,10 @@ Through this plugin user can,
 * Make the Category header linkable.
 
 For more information : http://buffercode.com/plugin-display-post-titles-category-selection/
+
+v 1.7 19082015
+
+* Support 4.3 - Bug Fixes
 
 v 1.6.1 [31/03/2015]
 
@@ -107,12 +111,17 @@ v 1.0
 For more information : http://buffercode.com/plugin-display-post-titles-category-selection/
 
 == Changelog ==
+= 1.7 =
+* Support 4.3 - Bug Fixes
+
 = 1.6.1 =
 * Bug fixes
 * Supports 4.1.1
+
 = 1.6 =
 * Supports 4.0.1
 * Bug fixes
+
 = 1.5.1.1 =
 * Supports WordPress 3.9
 
@@ -161,9 +170,7 @@ For more information : http://buffercode.com/plugin-display-post-titles-category
 For more information :http://buffercode.com/plugin-display-post-titles-category-selection/
 
 == Upgrade Notice ==
-= 1.6.1 =
-* Bug fixes
-* Supports 4.1.1
+* Support 4.3 - Bug Fixes
 == Screenshots ==
 1. Category Post Title in Drop Down and List view
 2. Widget Selection
